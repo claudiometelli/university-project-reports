@@ -10,6 +10,7 @@ This repository collects the reports and analyses for key projects developed dur
 | **In Progress** | **Action Model Learning** | Analysis and Implementation of the "Action Model Learning with Guarantees" approach by E. Scala and D. Aineto. The project aims to develop an algorithm implementation that learns sound and complete PDDL action models from observed agent transitions, applying the methodology to standard literature problems. |
 
 Since the project is a work-in-progress, details about the progress of the work are available in the [specific repository](https://github.com/claudiometelli/action-model-learning-guarantees).
+Furthermore, during the course, I wrote a detailed series of theoretical notes, useful for building the fundamentals of the subject and necessary as a theoretical basis for the project, which can be consulted in the repository.
 
 ---
 
