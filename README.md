@@ -36,10 +36,16 @@ Furthermore, during the course, I wrote a detailed series of theoretical notes, 
 | :--- | :--- | :--- |
 | **Complete** | **Machine Learning Algorithms** | Exploration and experimentation with classical Machine Learning algorithms for classification tasks. The study included implementing and comparing the performance of ensemble methods (Random Forests, Bagging, Boosting), Support Vector Machines, and basic Neural Networks to establish a strong foundational understanding of model selection and evaluation. |
 
+[Code repository](https://github.com/bernagit/machine_learning)
+
 ---
 
 ## 5. Optimisation Algorithms Course: the Clustered Multidimensional Knapsack Problem (CMKP)
 
 | Status | Topic | Summary |
 | :--- | :--- | :--- |
-| **Complete** | **Combinatorial Optimisation** | Development of a solution for the Clustered Multidimensional Knapsack Problem (CMDKP), a combinatorial optimization task. The project focused on implementing, testing, and improve the Kernel Search heuristic, in order to produce good feasible solutions in a limited-time environment.
+| **Complete** | **Combinatorial Optimisation** | Development of a solution for the Clustered Multidimensional Knapsack Problem (CMDKP), a combinatorial optimization task. The project focused on implementing, testing, and improve the Kernel Search heuristic, in order to produce good feasible solutions in a limited-time environment. |
+
+---
+
+Since some projects contain undisclosable information, some of the code repositories are kept private.
